@@ -1,0 +1,7 @@
+# Versions used for the analysis reported in the paper (Python 3.13.1)
+numpy==2.2.6
+pandas==2.3.3
+scipy==1.16.2
+scikit-image==0.26.0
+tifffile==2026.9.9
+matplotlib==3.10.3

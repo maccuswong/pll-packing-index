@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "pll-packing-index: packing index and width of the zebrafish posterior lateral line axon bundle"
+abstract: "Image-analysis script used to quantify the packing index and width of the zebrafish posterior lateral line axon bundle from confocal maximum-intensity projections of anti-acetylated tubulin staining."
+type: software
+license: MIT
+authors:
+  - family-names: Wong
+    given-names: Hao Jie
+    orcid: "https://orcid.org/0000-0001-5035-6636"
+keywords:
+  - zebrafish
+  - lateral line
+  - axon fasciculation
+  - image analysis
