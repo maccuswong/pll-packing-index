@@ -1,5 +1,7 @@
 # pll-packing-index
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23681353.svg)](https://doi.org/10.5281/zenodo.23681353)
+
 Image-analysis script used to quantify the **packing index** and **width** of the zebrafish posterior lateral line (pll) axon bundle from confocal maximum-intensity projections of anti-acetylated tubulin staining.
 
 This code accompanies:
